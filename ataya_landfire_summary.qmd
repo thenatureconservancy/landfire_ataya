@@ -1,6 +1,6 @@
 ---
 title: "Overview of LANDFIRE outputs for the Ataya Region"
-author: "Randy Swaty and Sarah Hagen"
+author: "Sarah Hagen and Randy Swaty"
 format: 
     pdf:
       toc: true
